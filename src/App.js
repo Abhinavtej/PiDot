@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { Route, Routes} from 'react-router-dom';
+import Home from './component/Home';
+import Contact from './component/Contact';
+import Products from './component/Products';
+import Footer from './Footer';
+import Navbar from './Navbar';
+import ErrorPage from './ErrorPage'
+import Edusphere from './component/Products/Edusphere';
+import Omnicore from './component/Products/Omnicore';
+import Genesis from './component/Products/Genesis-Program';
+import Eduvision from './component/Products/Eduvision';
+import Aboutus from './component/About';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Navbar />
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/Home' element={<Home />} />
+        <Route path='/About' element={<Aboutus />} />
+        <Route path='/Contact' element={<Contact />} />
+        <Route path='/Products' element={<Products />} />
+        <Route path='Products/Edusphere' element={<Edusphere />} />
+        <Route path='Products/Omnicore' element={<Omnicore />} />
+        <Route path='Products/Genesis-Program' element={<Genesis />} />
+        <Route path='Products/Eduvision' element={<Eduvision />} />
+        <Route path='*' element={<ErrorPage />} />
+      </Routes>
+      <Footer />
+    </>
   );
 }
 

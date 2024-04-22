@@ -1,0 +1,169 @@
+.edusphere-container, .genesis-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#edusphere-logo {
+    width: 28%;
+    height: 30%;
+    margin: 5em 0 0 10em;
+}
+
+#genesis-logo {
+    width: 20%;
+    height: 35%;
+    margin: 2em 0 0 15em;
+}
+
+.product-content {
+    display: flex;
+    flex-direction: row;
+}
+
+#content {
+    text-align: justify;
+    margin: 4em 10em;
+}
+
+#span {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.edusphere-container #span {
+    color: #F69605;
+}
+
+.genesis-container #span {
+    color: #004AAD;
+}
+
+#heading {
+    font-size: 2.5em;
+    margin-top: 3em;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    padding: 0 10em;
+    gap: 5em;
+}
+
+.left, .right {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+}
+
+#sub-heading {
+    font-size: 1.5em;
+    margin-top: 1em;
+}
+
+#highlight {
+    color: rgb(24 24 27);
+    font-weight: bold;
+    font-size: 0.8em;
+    text-align: center;
+    margin: 1em 0 3em 0;
+}
+
+.edusphere-container #highlight {
+    background-color: #F69605;
+}
+
+.genesis-container #highlight {
+    background-color: #004AAD;
+}
+
+#highlight p {
+    padding: 1em;
+}
+
+.left ul, .right ul {
+    margin-left: 1em;
+    list-style: none;
+}
+
+.left ul li, .right ul li {
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 1em;
+}
+
+.left ul li::before, .right ul li::before {
+    content: "■";
+    position: absolute;
+    left: 0;
+}
+
+.edusphere-container ul li::before {
+    color: #F69605;
+}
+
+.genesis-container ul li::before {
+    color: #004AAD;
+}
+
+
+@media screen and (max-width: 768px) {
+    .product-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #edusphere-logo {
+        width: 50%;
+        height: auto;
+        margin: 1em auto;
+        display: block;
+    }    
+
+    #genesis-logo {
+        width: 50%;
+        height: auto;
+        margin: 1em auto;
+        display: block;
+    }
+
+    #content {
+        margin: 2em;
+    }
+
+    .box {
+        flex-direction: column;
+        padding: 0 2em;
+        gap: 0;
+    }
+
+    .left,
+    .right {
+        width: 100%;
+        margin-top: 1em;
+    }
+
+    #heading {
+        font-size: 2em;
+        margin-top: 1.5em;
+    }
+
+    #sub-heading {
+        font-size: 1.3em;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #edusphere-logo {
+        width: 50%;
+        height: auto;
+    }
+
+    #genesis-logo {
+        width: 50%;
+        height: auto;
+    }
+}
