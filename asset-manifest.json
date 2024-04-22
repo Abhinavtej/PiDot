@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Abhinavtej/PiDot/static/css/main.0826436f.css",
+    "main.js": "/Abhinavtej/PiDot/static/js/main.9a42b37b.js",
+    "static/js/453.b03e3c98.chunk.js": "/Abhinavtej/PiDot/static/js/453.b03e3c98.chunk.js",
+    "static/media/direct-impact-1.png": "/Abhinavtej/PiDot/static/media/direct-impact-1.8f7d1266739f2412781e.png",
+    "static/media/indirect-impact.png": "/Abhinavtej/PiDot/static/media/indirect-impact.b579c2775667e2d86e13.png",
+    "static/media/direct-impact.png": "/Abhinavtej/PiDot/static/media/direct-impact.18acdaa4abb0bf677cbf.png",
+    "static/media/indirect-impact-1.png": "/Abhinavtej/PiDot/static/media/indirect-impact-1.bd08e33c60db76dcb3d3.png",
+    "static/media/our_identity.png": "/Abhinavtej/PiDot/static/media/our_identity.b19afefff5034ef30116.png",
+    "static/media/our_values.png": "/Abhinavtej/PiDot/static/media/our_values.49ab835d11c6dbfcb504.png",
+    "static/media/about.png": "/Abhinavtej/PiDot/static/media/about.884184c5aa31746c8dcb.png",
+    "static/media/our_what.png": "/Abhinavtej/PiDot/static/media/our_what.3aa7bc696f3dd8e33c13.png",
+    "static/media/our_how.png": "/Abhinavtej/PiDot/static/media/our_how.27deb7b71c52cd697b3a.png",
+    "static/media/our_who.png": "/Abhinavtej/PiDot/static/media/our_who.f96bb4a367afcad04a19.png",
+    "static/media/our_why.png": "/Abhinavtej/PiDot/static/media/our_why.c88fb9aec8b59dfdb1ed.png",
+    "static/media/edusphere.png": "/Abhinavtej/PiDot/static/media/edusphere.926c4a1cfaf8eae510a4.png",
+    "static/media/genesis.png": "/Abhinavtej/PiDot/static/media/genesis.dec707cf5f0f45970a3d.png",
+    "static/media/shape.png": "/Abhinavtej/PiDot/static/media/shape.f3140754ad0f084aae86.png",
+    "static/media/edusphere-2.png": "/Abhinavtej/PiDot/static/media/edusphere-2.955e2931f811d98d66ed.png",
+    "static/media/genesis-2.png": "/Abhinavtej/PiDot/static/media/genesis-2.b4c579dc89ae9c6fb795.png",
+    "static/media/logo.png": "/Abhinavtej/PiDot/static/media/logo.ae8164170c203c16e1cd.png",
+    "static/media/logo-yellow.png": "/Abhinavtej/PiDot/static/media/logo-yellow.63f0cc2065976279d11a.png",
+    "index.html": "/Abhinavtej/PiDot/index.html",
+    "main.0826436f.css.map": "/Abhinavtej/PiDot/static/css/main.0826436f.css.map",
+    "main.9a42b37b.js.map": "/Abhinavtej/PiDot/static/js/main.9a42b37b.js.map",
+    "453.b03e3c98.chunk.js.map": "/Abhinavtej/PiDot/static/js/453.b03e3c98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0826436f.css",
+    "static/js/main.9a42b37b.js"
+  ]
+}
