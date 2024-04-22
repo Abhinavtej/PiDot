@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "home": "https://Abhinavtej.github.io/PiDot",
+  "homepage": "https://Abhinavtej.github.io/PiDot",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
