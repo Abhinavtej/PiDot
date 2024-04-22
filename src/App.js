@@ -5,7 +5,7 @@ import Contact from './component/Contact';
 import Products from './component/Products';
 import Footer from './Footer';
 import Navbar from './Navbar';
-import ErrorPage from './ErrorPage'
+import ErrorPage from './ErrorPage';
 import Edusphere from './component/Products/Edusphere';
 import Omnicore from './component/Products/Omnicore';
 import Genesis from './component/Products/Genesis-Program';
@@ -15,17 +15,17 @@ import Aboutus from './component/About';
 function App() {
   return (
     <>
-    <Navbar />
-      <Routes>
+      <Navbar />
+      <Routes basename='/PiDot'>
         <Route exact path='/' element={<Home />} />
         <Route path='/Home' element={<Home />} />
         <Route path='/About' element={<Aboutus />} />
         <Route path='/Contact' element={<Contact />} />
         <Route path='/Products' element={<Products />} />
-        <Route path='Products/Edusphere' element={<Edusphere />} />
-        <Route path='Products/Omnicore' element={<Omnicore />} />
-        <Route path='Products/Genesis-Program' element={<Genesis />} />
-        <Route path='Products/Eduvision' element={<Eduvision />} />
+        <Route path='/Products/Edusphere' element={<Edusphere />} />
+        <Route path='/Products/Omnicore' element={<Omnicore />} />
+        <Route path='/Products/Genesis-Program' element={<Genesis />} />
+        <Route path='/Products/Eduvision' element={<Eduvision />} />
         <Route path='*' element={<ErrorPage />} />
       </Routes>
       <Footer />
