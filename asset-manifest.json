@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PiDot/static/css/main.0826436f.css",
-    "main.js": "/PiDot/static/js/main.0eb25045.js",
+    "main.js": "/PiDot/static/js/main.0f921a9d.js",
     "static/js/453.b03e3c98.chunk.js": "/PiDot/static/js/453.b03e3c98.chunk.js",
     "static/media/direct-impact-1.png": "/PiDot/static/media/direct-impact-1.8f7d1266739f2412781e.png",
     "static/media/indirect-impact.png": "/PiDot/static/media/indirect-impact.b579c2775667e2d86e13.png",
@@ -23,11 +23,11 @@
     "static/media/logo-yellow.png": "/PiDot/static/media/logo-yellow.63f0cc2065976279d11a.png",
     "index.html": "/PiDot/index.html",
     "main.0826436f.css.map": "/PiDot/static/css/main.0826436f.css.map",
-    "main.0eb25045.js.map": "/PiDot/static/js/main.0eb25045.js.map",
+    "main.0f921a9d.js.map": "/PiDot/static/js/main.0f921a9d.js.map",
     "453.b03e3c98.chunk.js.map": "/PiDot/static/js/453.b03e3c98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0826436f.css",
-    "static/js/main.0eb25045.js"
+    "static/js/main.0f921a9d.js"
   ]
 }
