@@ -18,7 +18,6 @@ function App() {
     <Navbar />
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/PiDot' element={<Home />} />
         <Route path='/Home' element={<Home />} />
         <Route path='/About' element={<Aboutus />} />
         <Route path='/Contact' element={<Contact />} />
