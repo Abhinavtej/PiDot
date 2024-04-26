@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PiDot/static/css/main.f5d6212c.css",
-    "main.js": "/PiDot/static/js/main.998c2c2b.js",
+    "main.css": "/PiDot/static/css/main.c119f461.css",
+    "main.js": "/PiDot/static/js/main.e890cae4.js",
     "static/js/453.b03e3c98.chunk.js": "/PiDot/static/js/453.b03e3c98.chunk.js",
     "static/media/direct-impact-1.png": "/PiDot/static/media/direct-impact-1.8f7d1266739f2412781e.png",
     "static/media/indirect-impact.png": "/PiDot/static/media/indirect-impact.b579c2775667e2d86e13.png",
@@ -14,20 +14,21 @@
     "static/media/our_how.png": "/PiDot/static/media/our_how.27deb7b71c52cd697b3a.png",
     "static/media/our_who.png": "/PiDot/static/media/our_who.f96bb4a367afcad04a19.png",
     "static/media/our_why.png": "/PiDot/static/media/our_why.c88fb9aec8b59dfdb1ed.png",
-    "static/media/edusphere.png": "/PiDot/static/media/edusphere.926c4a1cfaf8eae510a4.png",
-    "static/media/genesis.png": "/PiDot/static/media/genesis.dec707cf5f0f45970a3d.png",
     "static/media/shape.png": "/PiDot/static/media/shape.f3140754ad0f084aae86.png",
-    "static/media/edusphere-2.png": "/PiDot/static/media/edusphere-2.955e2931f811d98d66ed.png",
-    "static/media/genesis-2.png": "/PiDot/static/media/genesis-2.b4c579dc89ae9c6fb795.png",
+    "static/media/edusphere.png": "/PiDot/static/media/edusphere.5090811b9f0ce164050c.png",
+    "static/media/omnicore.png": "/PiDot/static/media/omnicore.040113044c587caf5b00.png",
+    "static/media/eduvision.png": "/PiDot/static/media/eduvision.5f6ffec54a3dc55cd65a.png",
     "static/media/logo.png": "/PiDot/static/media/logo.ae8164170c203c16e1cd.png",
     "static/media/logo-yellow.png": "/PiDot/static/media/logo-yellow.63f0cc2065976279d11a.png",
+    "static/media/genesis.png": "/PiDot/static/media/genesis.21ae9dee155e75bd1d1f.png",
+    "static/media/taskmate.png": "/PiDot/static/media/taskmate.d53f6be43d80aa52f886.png",
     "index.html": "/PiDot/index.html",
-    "main.f5d6212c.css.map": "/PiDot/static/css/main.f5d6212c.css.map",
-    "main.998c2c2b.js.map": "/PiDot/static/js/main.998c2c2b.js.map",
+    "main.c119f461.css.map": "/PiDot/static/css/main.c119f461.css.map",
+    "main.e890cae4.js.map": "/PiDot/static/js/main.e890cae4.js.map",
     "453.b03e3c98.chunk.js.map": "/PiDot/static/js/453.b03e3c98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5d6212c.css",
-    "static/js/main.998c2c2b.js"
+    "static/css/main.c119f461.css",
+    "static/js/main.e890cae4.js"
   ]
 }
